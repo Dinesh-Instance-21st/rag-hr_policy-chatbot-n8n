@@ -105,8 +105,7 @@ The chatbot retrieves relevant HR policy information from the vector database an
 n8n-hr-policy-chatbot/
 │
 ├── README.md
-├── workflow/
-│   └── My workflow.json
+├── My workflow.json
 │
 └── screenshots/
     ├── workflow-diagram.png
