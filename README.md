@@ -106,7 +106,7 @@ n8n-hr-policy-chatbot/
 │
 ├── README.md
 ├── workflow/
-│   └── hr-policy-chatbot-workflow.json
+│   └── My workflow.json
 │
 └── screenshots/
     ├── workflow-diagram.png
