@@ -1,4 +1,5 @@
-# AI HR Policy Chatbot using n8n, Gemini & Pinecone
+# RAG-based HR Policy Chatbot using n8n, Gemini & Pinecone
+
 
 An AI-powered HR policy chatbot built using **n8n**, **Google Gemini**, and **Pinecone Vector Database** with Retrieval-Augmented Generation (RAG) architecture.
 
